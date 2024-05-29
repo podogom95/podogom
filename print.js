@@ -1,1 +1,1 @@
-javascript:print(1)
+javascript:alert(1)
