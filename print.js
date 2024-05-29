@@ -1,0 +1,1 @@
+javascript:print(1)
